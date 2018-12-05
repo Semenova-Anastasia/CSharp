@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <FIO>zfbvc b</FIO>
+    <Univercity>zcvb</Univercity>
+    <Faculty>xzcbn</Faculty>
+    <Department>xzgfn</Department>
+    <Age>34</Age>
+    <Course>34</Course>
+    <Group>4</Group>
+    <City>xgfn</City>
+  </Student>
+  <Student>
+    <Age>0</Age>
+    <Course>0</Course>
+    <Group>0</Group>
+  </Student>
+  <Student>
+    <Age>0</Age>
+    <Course>0</Course>
+    <Group>0</Group>
+  </Student>
+  <Student>
+    <Age>0</Age>
+    <Course>0</Course>
+    <Group>0</Group>
+  </Student>
+</ArrayOfStudent>
